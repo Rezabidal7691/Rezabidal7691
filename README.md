@@ -24,7 +24,7 @@ Hello! I’m Reza Bidal , a passionate Full-Stack Developer specializing in the 
 I love connecting with like-minded individuals and collaborating on exciting projects. Feel free to reach out to me via:
 
 - **Email:** [manafbidal91@example.com]
-- **LinkedIn:** [https://instagram.com/manaf_bidal]
+- **Instagram:** [https://instagram.com/manaf_bidal]
 
 
 Thank you for visiting my GitHub profile! Let’s build something amazing together!
